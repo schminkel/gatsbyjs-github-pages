@@ -192,6 +192,7 @@ const pwaPlugins = [
 ]
 
 module.exports = {
+  pathPrefix: "/gatsbyjs-github-pages",
   siteMetadata,
   plugins: [
     ...corePlugins,
