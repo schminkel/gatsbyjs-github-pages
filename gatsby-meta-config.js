@@ -22,9 +22,9 @@ const metaConfig = {
   author: "Ed",
   siteUrl: "https://gatsby-starter-apple.netlify.app",
   lang: "en",
-  utterances: "sungik-choi/gatsby-starter-apple-comment",
+  utterances: "schminkel/gatsbyjs-github-pages",
   links: {
-    github: "https://github.com/sungik-choi/gatsby-starter-apple",
+    github: "https://github.com/schminkel/gatsbyjs-github-pages",
   },
   favicon: "src/images/icon.png",
 }
